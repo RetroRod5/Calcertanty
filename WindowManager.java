@@ -4,7 +4,6 @@ import java.awt.event.WindowListener;
 
 public class WindowManager extends Frame implements WindowListener {
    public WindowManager() {
-      Frame frame = new Frame();
       this.setTitle("Calcertanty");
       this.setSize(640, 480);
       this.setResizable(false);
